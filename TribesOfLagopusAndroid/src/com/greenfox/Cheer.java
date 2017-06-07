@@ -6,6 +6,6 @@ package com.greenfox;
 public class Cheer {
 
   public static void cheer() {
-    System.out.println("Bloodstone");
+    System.out.println("java");
   }
 }
