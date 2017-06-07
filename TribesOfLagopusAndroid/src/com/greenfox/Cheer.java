@@ -5,7 +5,7 @@ package com.greenfox;
  */
 public class Cheer {
 
-  public static void cheer(String input) {
-    System.out.println(input);
+  public static void cheer() {
+    System.out.println("java");
   }
 }
