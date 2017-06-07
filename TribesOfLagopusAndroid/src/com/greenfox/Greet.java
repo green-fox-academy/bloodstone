@@ -5,7 +5,7 @@ package com.greenfox;
  */
 public class Greet {
 
-  public static void greet() {
-    System.out.println("Hi Geoge!");
+  public static void greet(String string) {
+    System.out.println(string);
   }
 }
