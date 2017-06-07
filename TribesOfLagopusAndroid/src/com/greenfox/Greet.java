@@ -6,6 +6,6 @@ package com.greenfox;
 public class Greet {
 
   public static void greet(String greeting, String name) {
-    System.out.println(greeting + "  " + name);
+    System.out.println(greeting + "   " + name);
   }
 }
