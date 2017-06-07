@@ -6,6 +6,6 @@ package com.greenfox;
 public class Cheer {
 
   public static void cheer(String inputOne, String inputTwo) {
-    System.out.println(inputOne + inputTwo);
+    System.out.println("Cheer for the" + inputOne + inputTwo);
   }
 }
